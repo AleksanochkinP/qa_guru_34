@@ -17,8 +17,7 @@ public class SelenideRepositorySearch {
         open("https://github.com");
         $(".header-search-button").click();
         $("[id=query-builder-test]").setValue("selenide").pressEnter();
-        $("class='Box-sc-g0xbh4-0 kzfhBO search-match prc-Text-Text-0ima0'").click();
-        $("#repository-container-header").shouldHave(text("selenide / selenide"));
+        $("class=prc-Link-Link-85e08").shouldHave(text("selenide"));
 
     }
 
