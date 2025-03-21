@@ -4,23 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89210c28-9768-4e33-834b-03aa88f8ed5b" name="Changes" comment="Добавлен gitignore">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Junit5ToSoftAssertionsSearch.java" afterDir="false" />
+    <list default="true" id="89210c28-9768-4e33-834b-03aa88f8ed5b" name="Changes" comment="Test 3">
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Junit5ToSoftAssertionsSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Junit5ToSoftAssertionsSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +72,12 @@
     &quot;assignee&quot;: &quot;AleksanochkinPavel&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AleksanochkinPavel/qa_guru_34_4_Selenide.1",
-    "accountId": "1c7840a2-e9c5-4aaa-a620-92838aa5aa2e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AleksanochkinPavel/qa_guru_34_4_Selenide.1&quot;,
+    &quot;accountId&quot;: &quot;1c7840a2-e9c5-4aaa-a620-92838aa5aa2e&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/build.gradle" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -93,37 +90,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.BestContributorToSelenide.andreiSolntsevShouldBeTheFirstContributor.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BestContributorToSelenide.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.SelenideRepositorySearch.andreiSolntsevShouldBeTheFirstContributor.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.SelenideRepositorySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.qa_guru_34_4_Selenide.1.executor&quot;: &quot;Debug&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.BestContributorToSelenide.andreiSolntsevShouldBeTheFirstContributor.executor": "Run",
+    "Gradle.BestContributorToSelenide.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.Junit5ToSoftAssertionsSearch.executor": "Run",
+    "Gradle.Junit5ToSoftAssertionsSearch.shouldFindJunit5ToSoftAssertionsSearch.executor": "Run",
+    "Gradle.SelenideRepositorySearch.andreiSolntsevShouldBeTheFirstContributor.executor": "Run",
+    "Gradle.SelenideRepositorySearch.executor": "Run",
+    "Gradle.SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop.executor": "Debug",
+    "Gradle.qa_guru_34_4_Selenide.1.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.BestContributorToSelenide">
+}]]></component>
+  <component name="RunManager" selected="Gradle.Junit5ToSoftAssertionsSearch.shouldFindJunit5ToSoftAssertionsSearch">
     <configuration name="BestContributorToSelenide" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -172,7 +171,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="SelenideRepositorySearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Junit5ToSoftAssertionsSearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -185,7 +184,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;SelenideRepositorySearch&quot;" />
+            <option value="&quot;Junit5ToSoftAssertionsSearch&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -196,7 +195,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="SelenideRepositorySearch.andreiSolntsevShouldBeTheFirstContributor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Junit5ToSoftAssertionsSearch.shouldFindJunit5ToSoftAssertionsSearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -209,7 +208,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;SelenideRepositorySearch.andreiSolntsevShouldBeTheFirstContributor&quot;" />
+            <option value="&quot;Junit5ToSoftAssertionsSearch.shouldFindJunit5ToSoftAssertionsSearch&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -246,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Junit5ToSoftAssertionsSearch.shouldFindJunit5ToSoftAssertionsSearch" />
+        <item itemvalue="Gradle.Junit5ToSoftAssertionsSearch" />
         <item itemvalue="Gradle.BestContributorToSelenide" />
         <item itemvalue="Gradle.BestContributorToSelenide.andreiSolntsevShouldBeTheFirstContributor" />
         <item itemvalue="Gradle.SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop" />
-        <item itemvalue="Gradle.SelenideRepositorySearch.andreiSolntsevShouldBeTheFirstContributor" />
-        <item itemvalue="Gradle.SelenideRepositorySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +274,8 @@
       <workItem from="1742391896227" duration="9000" />
       <workItem from="1742391911487" duration="6359000" />
       <workItem from="1742402417207" duration="2809000" />
-      <workItem from="1742405655685" duration="319000" />
+      <workItem from="1742405655685" duration="365000" />
+      <workItem from="1742548001458" duration="6003000" />
     </task>
     <task id="LOCAL-00001" summary="Первый тест">
       <option name="closed" value="true" />
@@ -341,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742396721511</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test 3">
+      <option name="closed" value="true" />
+      <created>1742406006322</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742406006322</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +372,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первый тест" />
     <MESSAGE value="Добавлен gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлен gitignore" />
+    <MESSAGE value="Test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -387,6 +396,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Junit5ToSoftAssertionsSearch.java</url>
+          <line>17</line>
+          <properties class="Junit5ToSoftAssertionsSearch" method="shouldFindJunit5ToSoftAssertionsSearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
