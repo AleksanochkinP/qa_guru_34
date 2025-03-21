@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89210c28-9768-4e33-834b-03aa88f8ed5b" name="Changes" comment="HW" />
+    <list default="true" id="89210c28-9768-4e33-834b-03aa88f8ed5b" name="Changes" comment="HW">
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +263,7 @@
       <workItem from="1742391911487" duration="6359000" />
       <workItem from="1742402417207" duration="2809000" />
       <workItem from="1742405655685" duration="365000" />
-      <workItem from="1742548001458" duration="6311000" />
+      <workItem from="1742548001458" duration="6614000" />
     </task>
     <task id="LOCAL-00001" summary="Первый тест">
       <option name="closed" value="true" />
@@ -351,7 +353,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742554351854</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW">
+      <option name="closed" value="true" />
+      <created>1742554391955</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742554391955</updated>
+    </task>
+    <task id="LOCAL-00013" summary="HW">
+      <option name="closed" value="true" />
+      <created>1742554439188</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742554439188</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW">
+      <option name="closed" value="true" />
+      <created>1742554462173</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742554462173</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
